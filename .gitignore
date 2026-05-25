@@ -1,0 +1,7 @@
+rust/target/
+csharp/target/
+csharp/build_server/
+csharp/build_client/
+results/
+__pycache__/
+*.pyc
